@@ -256,6 +256,8 @@
 		<releases><enabled>false</enabled></releases>
 		<snapshots><enabled>true</enabled></snapshots>
 	</repository> 
+
+	<!-- Men sizning faylingizni clone qildim -->
 	
 	<!-- For developing against latest Spring milestones -->
 	<repository>
